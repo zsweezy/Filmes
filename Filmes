@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",NaoNaoOlhe2022
-http://venus.playhdlugo.online:80/tokeen.mp4/?e=/tokeen:c4fri52c3dpoaqv12bofss/flm22/NaoNaoOlhe2022.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",Panico2022
-http://venus.playhdlugo.online:80/tokeen.mp4/?e=/tokeen:c4fri52c3dpoaqv12bofss/flm22/Panico2022.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",AlienVsPredador
-http://venus.playhdlugo.online:80/tokeen.mp4/?e=/tokeen:c4fri52c3dpoaqv12bofss/flm22/AlienVsPredador22007.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",OTelefonePreto2021
-http://venus.playhdlugo.online:80/tokeen.mp4/?e=/tokeen:c4fri52c3dpoaqv12bofss/flm22/OTelefonePreto2021.mp4
+#EXTINF:-1 tvg-id="SERIES" tvg-logo="" group-title="SERIES",AVATAR
+http://apolo2.shipblackpoint.tk:80/token:v11expire518706tp864/cam/AvatarOCaminhoDaAgua2022CAM.mp4
